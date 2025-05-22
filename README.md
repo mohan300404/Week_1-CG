@@ -2,6 +2,7 @@ Week 1: Java Basics
 
   Welcome to the repository for Week 1 of our Java learning journey. This week focused on
   building a strong foundation in the fundamental concepts of Java programming.
+
   
   Table of Contents
       ● Overview
